@@ -1,0 +1,8 @@
+{
+  "name": "TTS Reader",
+  "description": "تطبيق قارئ نصوص صوتي ذكي يدعم العربية ولغات متعددة مع التحكم بنبرة وسرعة الصوت وحفظ السجل والمفضلة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

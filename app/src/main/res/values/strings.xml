@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TTS Reader</string>
+    <string name="app_header">قارئ النصوص الصوتي</string>
+    <string name="tab_reader">القارئ</string>
+    <string name="tab_history">السجل والمفضلة</string>
+    <string name="input_hint">اكتب أو الصق النص هنا ليتم قراءته بصوت مسموع…</string>
+    <string name="btn_play">تشغيل</string>
+    <string name="btn_pause">إيقاف مؤقت</string>
+    <string name="btn_stop">إيقاف</string>
+    <string name="btn_save">حفظ النص</string>
+    <string name="speech_rate">سرعة القراءة: %1$.1fx</string>
+    <string name="voice_pitch">نبرة الصوت: %1$.1fx</string>
+    <string name="choose_language">اختر لغة القراءة</string>
+    <string name="import_file">استيراد ملف نصي</string>
+    <string name="empty_text_error">يرجى إدخال أو لصق نص أولاً!</string>
+    <string name="tts_speech_started">بدأ تحويل النص إلى كلام</string>
+    <string name="tts_speech_stopped">تم إيقاف القراءة</string>
+    <string name="favorite_added">تمت الإضافة إلى المفضلة</string>
+    <string name="favorite_removed">تمت الإزالة من المفضلة</string>
+    <string name="history_deleted">تم حذف النص من السجل</string>
+    <string name="import_success">تم استيراد الملف بنجاح!</string>
+    <string name="import_fail">فشل استيراد الملف. تأكد من أنه ملف نصي (.txt).</string>
+    <string name="title_dialog">حفظ النص الحالي</string>
+    <string name="text_title_hint">أدخل عنواناً للنص...</string>
+    <string name="btn_cancel">إلغاء</string>
+    <string name="btn_confirm">حفظ</string>
+    <string name="no_data">السجل فارغ</string>
+    <string name="no_data_desc">ابدأ بكتابة نصوص وقراءتها، أو قم باستيراد ملفات نصية لحفظها هنا.</string>
+    <string name="search_hint">ابحث في السجل أو المفضلة…</string>
+    <string name="text_details">تفاصيل وتعديل النص</string>
+</resources>
